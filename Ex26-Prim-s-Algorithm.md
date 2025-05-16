@@ -20,6 +20,7 @@ Program to implement Prim's Algorithm
 Developed by: Varadaram SK
 RegisterNumber:212223040232
 */
+
 #include<stdio.h> 
 #include<stdlib.h>
 #define infinity9999
