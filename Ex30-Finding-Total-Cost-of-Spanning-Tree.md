@@ -1,5 +1,5 @@
 # Ex30 Finding Total Cost of Spanning Tree
-## DATE:
+## DATE: 14-05-2025
 ## AIM:
 To write a C Program to implement Prim's Algorithm for finding Total Cost of spanning tree.
 ## Algorithm
